@@ -1,8 +1,8 @@
-# :wave: Try the Natural Number Game
+# Goal 1: Try the Natural Number Game
 
 To get a first taste of what this course is about, try [the Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/).
 
-# :wave: The Basics of GitHub  
+# Goal 2: The Basics of GitHub  
 
 The second goal of this first assignment is to give you a brief introduction to GitHub Classroom.
 
